@@ -36,56 +36,56 @@ API Endpoints
     - Headers: `Content-Type: application/json`
     - Response: `200 OK` with a list of students in JSON format
 * `GET /student/:id`: retrieve a single student by ID
-       + **Postman Example**:
-    		- Method: GET
-    		- URL: `http://localhost:8080/student/:id`
-    		- Headers: `Content-Type: application/json`
-    		- Response: `200 OK` with a list of student in JSON format
+  + **Postman Example**:
+    - Method: GET
+  	- URL: `http://localhost:8080/student/:id`
+		- Headers: `Content-Type: application/json`
+ 		- Response: `200 OK` with a list of student in JSON format
 * `POST /student`: create a new student
-       + **Postman Example**:
-    		- Method: POST
-    		- URL: `http://localhost:8080/student`
-    		- Headers: `Content-Type: application/json`
-    		- Response: `200 OK` with a list of student in JSON format
+  + **Postman Example**:
+    - Method: POST
+    - URL: `http://localhost:8080/student`
+    - Headers: `Content-Type: application/json`
+    - Response: `200 OK` with a list of student in JSON format
 * `PUT /student/:id`: update a single student
-       + **Postman Example**:
-    		- Method: PUT
-    		- URL: `http://localhost:8080/student/:id`
-    		- Headers: `Content-Type: application/json`
-    		- Response: `200 OK` with a list of student in JSON format
+  + **Postman Example**:
+    - Method: PUT
+    - URL: `http://localhost:8080/student/:id`
+    - Headers: `Content-Type: application/json`
+    - Response: `200 OK` with a list of student in JSON format
 * `DELETE /student/:id`: delete a single student
-       + **Postman Example**:
-    		- Method: DELETE
-    		- URL: `http://localhost:8080/student/:id`
-    		- Headers: `Content-Type: application/json`
-    		- Response: `200 OK` with a list of student in JSON format
+  + **Postman Example**:
+    - Method: DELETE
+    - URL: `http://localhost:8080/student/:id`
+    - Headers: `Content-Type: application/json`
+    - Response: `200 OK` with a list of student in JSON format
 
 ### Subjects
 
 * `GET /subject`: retrieve a list of all subjects
-       + **Postman Example**:
-    		- Method: GET
-    		- URL: `http://localhost:8080/subject`
-    		- Headers: `Content-Type: application/json`
-    		- Response: `200 OK` with a list of subjects in JSON format
+  + **Postman Example**:
+    - Method: GET
+    - URL: `http://localhost:8080/subject`
+    - Headers: `Content-Type: application/json`
+    - Response: `200 OK` with a list of subjects in JSON format
 * `POST /subject`: create a new subject
-       + **Postman Example**:
-    		- Method: POST
-    		- URL: `http://localhost:8080/subject`
-    		- Headers: `Content-Type: application/json`
-    		- Response: `200 OK` with a list of subject in JSON format
+  + **Postman Example**:
+    - Method: POST
+    - URL: `http://localhost:8080/subject`
+    - Headers: `Content-Type: application/json`
+    - Response: `200 OK` with a list of subject in JSON format
 * `PUT /subject/:id`: update a single subject
-       + **Postman Example**:
-    		- Method: PUT
-    		- URL: `http://localhost:8080/subject/:id`
-    		- Headers: `Content-Type: application/json`
-    		- Response: `200 OK` with a list of subject in JSON format
+  + **Postman Example**:
+    - Method: PUT
+    - URL: `http://localhost:8080/subject/:id`
+    - Headers: `Content-Type: application/json`
+    - Response: `200 OK` with a list of subject in JSON format
 * `DELETE /subject/:id`: delete a single subject
-       + **Postman Example**:
-    		- Method: DELETE
-    		- URL: `http://localhost:8080/subject/:id`
-    		- Headers: `Content-Type: application/json`
-    		- Response: `200 OK` with a list of subject in JSON format
+  + **Postman Example**:
+    - Method: DELETE
+    - URL: `http://localhost:8080/subject/:id`
+    - Headers: `Content-Type: application/json`
+    - Response: `200 OK` with a list of subject in JSON format
 
 Authors
 -------
