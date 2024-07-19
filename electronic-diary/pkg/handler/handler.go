@@ -36,7 +36,7 @@ func (h *Handler) InitRoutes() *gin.Engine {
 		student.GET("/", h.GetAllStudent)
 		student.GET("/:id", h.GetStudentById)
 		student.PUT("/:id", h.UpdateStudent)
-		student.DELETE("/", h.DeleteStudent)
+		student.DELETE("/:id", h.DeleteStudent)
 	}
 	subject := router.Group("/subject")
 	{
