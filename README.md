@@ -38,9 +38,9 @@ API Endpoints
 * `GET /student/:id`: retrieve a single student by ID
   + **Postman Example**:
     - Method: GET
-  	- URL: `http://localhost:8080/student/:id`
-		- Headers: `Content-Type: application/json`
- 		- Response: `200 OK` with a list of student in JSON format
+    - URL: `http://localhost:8080/student/:id`
+    - Headers: `Content-Type: application/json`
+    - Response: `200 OK` with a list of student in JSON format
 * `POST /student`: create a new student
   + **Postman Example**:
     - Method: POST
