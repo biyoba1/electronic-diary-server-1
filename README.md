@@ -27,7 +27,7 @@ Alternatively, you can use Docker to build and run the application:
 API Endpoints
 -------------
 
-### Users
+### <font color="#ff9900">Users</font>
 
 * `GET /student`: retrieve a list of all student
 * `GET /student/:id`: retrieve a single student by ID
