@@ -3,7 +3,7 @@ Electronic Diary Server
 
 A RESTful API for managing electronic diaries.
 
-Getting Started
+### <font color="#008000">Getting Started</font>
 ---------------
 
 ### Prerequisites
