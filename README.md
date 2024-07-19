@@ -30,11 +30,11 @@ API Endpoints
 ### Users
 
 * `GET /student`: retrieve a list of all student
-       + **Postman Example**:
-    		- Method: GET
-    		- URL: `http://localhost:8080/student`
-    		- Headers: `Content-Type: application/json`
-    		- Response: `200 OK` with a list of students in JSON format
+  + **Postman Example**:
+    - Method: GET
+    - URL: `http://localhost:8080/student`
+    - Headers: `Content-Type: application/json`
+    - Response: `200 OK` with a list of students in JSON format
 * `GET /student/:id`: retrieve a single student by ID
        + **Postman Example**:
     		- Method: GET
